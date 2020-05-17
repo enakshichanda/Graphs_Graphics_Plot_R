@@ -1,5 +1,4 @@
 getwd()
-setwd("C:\\Users\\Dell\\Music\\R-assignment")
 irish<-read.csv("Irish Towns Co Ordinates.csv")
 View(irish)
 
